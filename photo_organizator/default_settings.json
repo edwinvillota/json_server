@@ -15,6 +15,6 @@
   "photographs": [
     { "id": 1, "name": "Predio antes", "required": true },
     { "id": 2, "name": "Medidor", "required": false },
-    { "id": 3, "name": "Lectura activa", "required": true },
+    { "id": 3, "name": "Lectura activa", "required": true }
   ]
 }
