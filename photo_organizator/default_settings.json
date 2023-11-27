@@ -5,7 +5,7 @@
   "date": "2023-11-25",
   "validations": {
     "activityId": {
-      "regExp": "^[0-9]{7}$",
+      "regExp": "^[0-9]{7,10}$",
       "minLength": 7,
       "maxLength": 10
     }
